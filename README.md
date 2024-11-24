@@ -1,7 +1,5 @@
 # **Java Chat Application**
 
-![Chat Application](https://via.placeholder.com/800x400.png?text=Java+Chat+Application)
-
 A simple yet robust **Java-based Chat Application** with a graphical user interface (GUI) for real-time communication. The application uses **Sockets** for networking, supports multiple clients, and demonstrates core Java networking and threading concepts.
 
 ---
@@ -22,7 +20,7 @@ A simple yet robust **Java-based Chat Application** with a graphical user interf
 ![Chat Interface](https://github.com/Vinoth-Kumar-N/Chat-App-Java/blob/main/images/img1.png)
 
 ### **Server Logs**
-![Server Logs](https://via.placeholder.com/600x300.png?text=Server+Logs)
+![Server Logs](https://github.com/Vinoth-Kumar-N/Chat-App-Java/blob/main/images/serverLog.png)
 
 ---
 
@@ -51,4 +49,29 @@ Follow these steps to set up and run the application on your local machine.
 Run the `ChatServer` class to initialize the server:
 ```bash
 java -cp out/production/ChatApplication server.ChatServer
+```
+### **Step 2: Start Clients**
+Run multiple instances of the `ChatClientGUI` class:
+```bash
+java -cp out/production/ChatApplication ChatClientGUI
+```
+
+## **License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Contact**
+
+If you have any questions or feedback, feel free to reach out:
+
+- 📧 **Email**: [natarajvinoth7.com](mailto:natarajvinoth7.com)
+- 🐦 **LinkedIn**: [Vinoth Kumar Nataraj](https://www.linkedin.com/in/vinothkumar-nataraj-2285a8251/)
+
+
+
+
+
+
 
