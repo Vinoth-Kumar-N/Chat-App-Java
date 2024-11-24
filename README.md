@@ -19,7 +19,7 @@ A simple yet robust **Java-based Chat Application** with a graphical user interf
 ## **Screenshots**
 
 ### **Chat Client Interface**
-![Chat Interface](https://via.placeholder.com/600x300.png?text=Chat+Client+Interface)
+![Chat Interface](https://github.com/Vinoth-Kumar-N/Chat-App-Java/blob/main/images/img1.png)
 
 ### **Server Logs**
 ![Server Logs](https://via.placeholder.com/600x300.png?text=Server+Logs)
