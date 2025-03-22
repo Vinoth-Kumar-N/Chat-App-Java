@@ -7,7 +7,7 @@ import java.util.*;
 public class ChatServer {
     private static List<ClientHandler> clients = new ArrayList<>();
     public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(5000);
+        ServerSocket serverSocket = new ServerSocket(5353);
         System.out.println("Server Started ! and Waiting for Clients");
 
         while( true ) {

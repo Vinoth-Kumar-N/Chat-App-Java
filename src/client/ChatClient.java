@@ -33,6 +33,6 @@ public class ChatClient {
         }).start();
     }
     public static void main(String[] args) throws IOException {
-        //ChatClient client = new ChatClient("localhost", 3000, System.out::println);
+        ChatClient client = new ChatClient("localhost", 3000, System.out::println);
     }
 }
